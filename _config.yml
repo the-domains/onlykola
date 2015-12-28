@@ -1,28 +1,18 @@
-name: OnlyKola
-favicon: null
-layout_spectrum: 0.4693540788721293
-typography_spectrum: 0.5938063182402402
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5610837750136852
-  lightness: 0.7974540565628558
-  saturation: 0.7697993151377887
-  rhythmicContrast: 0.6068855915218592
+    - '#E0F0F0'
+    - '#642121'
+    - '#808890'
+    - '#C85858'
+    - '#F8D0A0'
+  brandStrength: 0.561083
+  lightness: 0.797454
+  rhythmicContrast: 0.804898
+  saturation: 0.769799
+cta: {}
+layout_spectrum: 0.886824
+name: OnlyKola
+opengraph: {}
 purpose: []
+typography_spectrum: 0.122466
