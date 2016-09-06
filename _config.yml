@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.122466
 color:
   brandColors:
     - '#E0F0F0'
@@ -10,9 +10,10 @@ color:
   lightness: 0.797454
   rhythmicContrast: 0.804898
   saturation: 0.769799
-cta: {}
-layout_spectrum: 0.886824
-name: OnlyKola
 opengraph: {}
+layout_spectrum: 0.886824
+analytics: {}
+name: OnlyKola
+cta: {}
+title: Gypsy Pro
 purpose: []
-typography_spectrum: 0.122466
